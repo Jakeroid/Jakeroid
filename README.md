@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am currently working like a Freelancer and build bots and scrapers. My main stack is NodeJS. But I am learning Blockchain and Solidity too. If you would like to colaborate, let me know. Contact me on [LinkedIn](https://www.linkedin.com/in/ivan-karabadzhak-42712113b/) or [Upwork](https://www.upwork.com/freelancers/ivank6).
+I am currently working as a Freelancer and building bots and scrapers. My main stack is NodeJS. But I am learning Blockchain and Solidity too. If you would like to collaborate, let me know. Contact me on [LinkedIn](https://www.linkedin.com/in/ivan-karabadzhak-42712113b/) or [Upwork](https://www.upwork.com/freelancers/ivank6).
 
 <!--
 **Jakeroid/Jakeroid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
