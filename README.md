@@ -2,7 +2,7 @@
 
 Want to become wealthy by CODING 🚀 Fan of Remote Work ✈️ Was Freelancer for 12 years 💻 Build AI Telegram Bot: https://chatty-robo.help 🟢 Follow my journey on Twitter: https://twitter.com/Jakeroid
 
-My current tech stack: Javascript, TypeScript, NodeJS, Python, Backend and Data Engineering.
+My current tech stack: Python, Javascript, TypeScript, NodeJS, Backend and Data Engineering.
 If you would like to collaborate, let me know. Contact me on [LinkedIn](https://www.linkedin.com/in/ivan-karabadzhak-42712113b/) or [Upwork](https://www.upwork.com/freelancers/ivank6).
 
 <!--
