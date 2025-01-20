@@ -17,7 +17,7 @@ Follow my journey on [Threads](https://www.threads.net/@jakeroid_dev)
 
 Follow my journey on [BlueSky](https://bsky.app/profile/jakeroid.bsky.social)
 
-Contact me on [LinkedIn](https://www.linkedin.com/in/ivan-karabadzhak-42712113b/) or [Upwork](https://www.upwork.com/freelancers/ivank6).
+Contact me on [LinkedIn](https://www.linkedin.com/in/ivan-karabadzhak-42712113b/) or [Upwork](https://www.upwork.com/freelancers/ivank6)
 <!--
 **Jakeroid/Jakeroid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
