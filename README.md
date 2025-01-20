@@ -11,11 +11,11 @@
 ⋅ Building Wealth Doing What I Love
 
 
-Follow my journey on X / Twitter: [https://twitter.com/Jakeroid](https://twitter.com/Jakeroid)
+Follow my journey on [X / Twitter](https://twitter.com/Jakeroid)
 
-Follow my journey on Threads: [https://twitter.com/Jakeroid](https://www.threads.net/@jakeroid_dev)
+Follow my journey on [Threads](https://www.threads.net/@jakeroid_dev)
 
-Follow my journey on BlueSky: [https://twitter.com/Jakeroid](https://bsky.app/profile/jakeroid.bsky.social)
+Follow my journey on [BlueSky](https://bsky.app/profile/jakeroid.bsky.social)
 
 Contact me on [LinkedIn](https://www.linkedin.com/in/ivan-karabadzhak-42712113b/) or [Upwork](https://www.upwork.com/freelancers/ivank6).
 <!--
