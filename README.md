@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ⋅ Data Engineer 
 
 ⋅ Perfecting Python & SQL 
